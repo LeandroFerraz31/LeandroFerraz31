@@ -1,4 +1,3 @@
-Aqui está uma versão atualizada do seu README com ícones para refletir seu conhecimento e habilidades:
 
 ---
 
