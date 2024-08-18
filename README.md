@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-Eu sou o Leandro Ferraz, um apaixonado por front-end! ✨🚀 Navegando pelo mundo da tecnologia, adoro transformar ideias em interfaces bonitas e interativas. Trabalho incansavelmente para melhorar minhas habilidades e aprender novas técnicas.
+Eu sou o Leandro Ferraz, um apaixonado por FullStack! ✨🚀 Navegando pelo mundo da tecnologia, adoro transformar ideias em interfaces bonitas e interativas. Trabalho incansavelmente para melhorar minhas habilidades e aprender novas técnicas.
 
 🚀 Tecnologias:
 <br>
