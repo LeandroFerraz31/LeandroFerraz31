@@ -23,13 +23,14 @@ Eu sou o Leandro Ferraz, um apaixonado por front-end! ✨🚀 Navegando pelo mun
 
 **Conhecimentos:**
 - **Node.js**: Plataforma para executar o servidor e o código JavaScript no backend.
-- **PostgreSQL**: Banco de dados relacional utilizado para armazenar informações.
+- **PostgreSQL**: Banco de dados relacional.
 - **Sequelize**: ORM (Object-Relational Mapping) para conectar e interagir com o PostgreSQL.
 - **Bcrypt**: Biblioteca para hashing de senhas.
 - **Express**: Framework para construir o servidor e gerenciar rotas.
 - **Yup**: Biblioteca para validação de dados.
 - **Multer**: Middleware para o upload de arquivos.
 - **JWT**: Biblioteca para gerar e verificar tokens de autenticação.
+- **MongoDB**: Banco de dados não relacional.
 
 Sinta-se à vontade para explorar meus projetos aqui no GitHub. Espero que eles possam inspirar e ajudar de alguma forma. Adoro colaborar com outros desenvolvedores e estou sempre aberto a novas oportunidades de aprendizado.
 
