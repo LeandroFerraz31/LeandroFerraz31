@@ -1,4 +1,3 @@
-
 ---
 
 ### Hi there 👋
@@ -47,5 +46,3 @@ Conecte-se comigo:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroFerraz31&showicons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-Se precisar de mais ajustes ou adicionar outros detalhes, é só me avisar!
